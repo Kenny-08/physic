@@ -33,3 +33,21 @@ We learned to debug bugs collaboratively while coding in pairs and effectively m
 ## What's next for Physic
 
 We are thinking of using real-time data from smartwatches to automatically track the activity data from the user, rather than having them fill it manually.
+
+## User Interface
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/64766655/134813803-12372269-e127-4b62-a3ad-0c1de14f2b6d.jpeg" width="170" >
+<img src="https://user-images.githubusercontent.com/64766655/134813811-fa7a468c-aa60-4525-b712-df7ded9afb59.jpeg" width="170" >
+<img src="https://user-images.githubusercontent.com/64766655/134813807-5cae2cff-bc5a-4b72-b003-06ac67dafb14.jpeg" width="170" >
+  <img src="https://user-images.githubusercontent.com/64766655/134813806-f4126590-7ccc-4d2f-8b87-1a7c39d904b8.jpeg" width="170" >
+ <img src="https://user-images.githubusercontent.com/64766655/134813813-235626ba-d3ba-4258-86b1-4a833db2f1ae.jpeg" width="170" >
+</p>
+
+<p align = "center">
+  <img src="https://user-images.githubusercontent.com/64766655/134813798-2ebf8b3c-dd90-4335-bf60-1cb65bd64bcc.jpeg" width="170" >
+<img src="https://user-images.githubusercontent.com/64766655/134813814-ae2edb7e-20bf-41ec-9476-1905d5823b9c.jpeg" width="170" >
+<img src="https://user-images.githubusercontent.com/64766655/134813802-1fb0949b-81b5-4851-9376-2d951868c968.jpeg" width="170" >
+<img src="https://user-images.githubusercontent.com/64766655/134813815-9bc55de0-c50b-496a-8123-0fb7952df0b9.jpeg" width="170" >
+  <img src="https://user-images.githubusercontent.com/64766655/134813809-7cc0f0ce-7578-48e3-8121-563dc621cf3f.jpeg" width="170" >
+</p>
